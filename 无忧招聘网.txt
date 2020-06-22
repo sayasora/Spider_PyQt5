@@ -1,0 +1,14 @@
+爬取内容：无忧网招聘信息
+网页主站：https://search.51job.com/
+爬取站点（示例）：https://search.51job.com/list/090200,000000,0000,39,9,99,%2B,2,3.html?lang=c&postchannel=0000&workyear=99&cotype=99&degreefrom=99&jobterm=99&companysize=99&ord_field=0&dibiaoid=0&line=&welfare=
+提取数量：页码 * 50 
+爬取方式：网址
+关键字：url
+支持批量关键字：否
+
+ip访问频率限制：暂无
+网站反爬策略：暂无
+
+注意：点击网站信息后网址会改变，复制改变后的网址达到分类目的。
+
+更新：暂无。
